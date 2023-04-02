@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+.full{
+  background-image: url("PORTFOLIO-SOCIAL.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 13398px;
+}
